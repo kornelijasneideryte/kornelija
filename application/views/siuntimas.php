@@ -1,0 +1,1 @@
+<? php print_r($Klientas_ID); print_r($M_ID); ?>
